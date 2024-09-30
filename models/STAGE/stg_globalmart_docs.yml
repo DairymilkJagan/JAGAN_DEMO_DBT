@@ -1,9 +1,0 @@
-version: 2
-
-models:
-  - name: STG_ORDERS
-    description: Its combined all 3 tables
-    columns:
-      - name: orderid
-        description: It is a primary key
-  
